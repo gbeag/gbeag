@@ -21,19 +21,6 @@ You can click the Preview link to take a look at your changes.
 
    </div>
    
-  	
-  </div>
-  
-   <div align=center>
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gbeag&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-   </div>
    
   </div>
   
